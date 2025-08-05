@@ -16,8 +16,11 @@ To be updated.
 simple_stock_price_predictor/
 ├── data/
 │   └── Download Data - INDEX_UK_FTSE UK_UKX.csv
-└── README.md             # Main project overview
-```
+├── README.md             # Main project overview
+│   └── Download Data - INDEX_UK_FTSE UK_UKX.csv
+└── code
+    └── predictor.py # Main project code  
+'''
 
 ## Getting Started
 
@@ -29,4 +32,4 @@ simple_stock_price_predictor/
 
 ## Purpose
 
-This model is to begin my journey into ML with the view of becoming an ML researcher. This is the code part of my project and I will supliment it with the mathematics to give me a broader understanding of what the model is doing.
+This model is to begin my journey into ML with the view of becoming an ML researcher. This is the code part of my project and I will supliment it with the mathematics to give me a broader understanding of what the model is doing. This is to be used hand in hand with the mathematics journal that will document the deep dives into each model, the underlying mathematics and evaluation methods to ensure consistant learning methodology.
