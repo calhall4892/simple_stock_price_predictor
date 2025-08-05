@@ -20,7 +20,7 @@ simple_stock_price_predictor/
 │   └── Download Data - INDEX_UK_FTSE UK_UKX.csv
 └── code
     └── predictor.py # Main project code  
-'''
+
 
 ## Getting Started
 
