@@ -1,6 +1,6 @@
 # Simple Stock Price Indicator
 
-A basic introduction into ML by predicting stock pricing.
+A basic introduction into ML by predicting stock pricing..
 
 ## Data
 
